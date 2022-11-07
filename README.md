@@ -32,9 +32,26 @@ Professional
 Specialty
 
 
-Aula 03:
+Aula 03: Analise de Custos, cálculo de TCO e classificação de instancias - 19min
 
-Analise de Custos, cálculo de TCO e classificação de instancias - 19min
+Recursos:
+
+Calculadora de custos mensais da AWS:
+https://calculator.s3.amazonaws.com/index.html
+
+Calculadora de TCO da AWS:
+https://calculator.aws/#/
+
+Definição de preço do Amozon EC2:
+https://aws.amazon.com/pt/ec2/pricing/on-demand/
+
+Habilitar e desabilitar o monitoramento detalhado para suas instancias:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/using-cloudwatch-new.html
+
+Centro de informações sobre a nuvem:
+https://aws.amazon.com/pt/economics/
+
+
 
 Tarefa02: Vantagens da AWS sobre On-premises
 
@@ -49,6 +66,19 @@ Tarefa04: Acesse o site da AWS
 Seção 2: IAM - Identity and Access Management
 
 Aula 04: IAM
+
+Recursos:
+
+AWS SSO:
+https://aws.amazon.com/pt/iam/identity-center/
+
+Autenticação e controle de acesso do AWS SSO:
+https://docs.aws.amazon.com/pt_br/singlesignon/latest/userguide/iam-auth-access.html
+
+AWS Diretory Service:
+https://aws.amazon.com/pt/directoryservice/
+
+Arquivo Iam.pptx
 
 Serviço principal da AWS - Será configurado usuários, grupos, roles, credenciais, níveis de acesso, permissões, politicas.
 Permiti add um provedor de autenticação externo (Active diretory) para usar 
@@ -91,10 +121,8 @@ Recursos:
 AWS - Introdução ao S3
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html
 
-
 AWS - Precificãção do S3
 https://aws.amazon.com/pt/s3/pricing/
-
 
 AWS - Versionamento do S3
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Versioning.html
@@ -115,8 +143,9 @@ AWS - Elementos de configuração do ciclo de vida
 https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/intro-lifecycle-rules.html
 
 AWS - Remoção de marcadores de exclusão
+- Validar link ??
 
-
+Arquivo S3.pptx
 
 Serviços de armazenamento ilimitado gerenciavel (Gereciamento é feito de forma automatica pela AWS), provê o armazenamento de dados com segurança durabilidade e escalabilidade.
 
@@ -145,8 +174,6 @@ Controle de acesso baseado em ACL's (Para objetos) e Bucket Policies.
 Classes de armazenamento
 
 
-
-
 Aula 07: S3 na prática
 
 Criação de bucket
@@ -164,6 +191,7 @@ Recursos:
 AWS - CloudFront
 https://aws.amazon.com/pt/cloudfront/
 
+Arquivo CloudFront.pptx
 
 É um serviço é uma CDN (Content Delivery Network) rápida, na qual é possível distribuir conteúdo WEB globalmente, com baixa latencia, baseado na localização de usuários, páginas e dos servidores de conteúdo.
 
@@ -175,12 +203,43 @@ Origin - é a origem
 
 Aula 09: Aula Pratica CloudFront | Integração com outros serviços AWS
 
+Recursos:
+
+AWS - Valores especificados ao criar ou atualizar uma distribuição CloudFront:
+https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/distribution-web-values-specify.html#DownloadDistValuesOAIRestrictBucketAccess
+
+AWS - Utilizando URLs amigáveis:
+https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/CNAMEs.html#CreatingCNAME
+
 Tarefa06: Questionário
 
 Aula prática sobre o CloudFront
 
+Seção 5: Storage Gateway
 
+Aula 10: Storage Gateway
 
-Aula 01:
-Aula 01:
+Recursos:
 
+AWS - Como implantar um Gateway de arquivos em host do Amazon EC2:
+https://docs.aws.amazon.com/pt_br/storagegateway/index.html
+
+AWS - Como criar um Gateway de volume:
+https://docs.aws.amazon.com/pt_br/storagegateway/index.html
+
+Wikipédia - iSCSI:
+https://pt.wikipedia.org/wiki/ISCSI
+
+Wikipédia - NFS
+https://pt.wikipedia.org/wiki/Network_File_System
+
+Como criar um Gateway de arquivos
+https://docs.aws.amazon.com/pt_br/storagegateway/index.html
+
+Arquivo Storage-gateway.pptx
+
+Aula 11: Aula prática - Storage Gateway
+
+Tarefa07: Storage Gateway
+
+Tarefa sobre o Storage Gateway
