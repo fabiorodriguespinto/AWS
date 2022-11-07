@@ -2,9 +2,35 @@ Treinamento completo em AWS
 
 Seção 1: Introdução
 
-Aula 01:
-Aula 02:
-Tarefa01:
+Aula 01: Introdução a Computação em Nuvem através da AWS
+
+Recursos:
+
+http://nuvym.com/beneficios-cloud/
+
+
+http://nuvym.com/amadurecimento-cloud/
+
+
+http://nuvym.com/devops/
+
+
+Arquivo introducao.pptx
+
+Aula 02: Certificações AWS
+
+Recursos:
+
+https://aws.amazon.com/pt/certification/
+
+
+Tarefa01: Descreva as diferenças entre os níveis das seguintes certificações AWS:
+
+Cloud Practitioner
+Associate
+Professional
+Specialty
+
 
 Aula 03:
 
@@ -70,6 +96,26 @@ AWS - Precificãção do S3
 https://aws.amazon.com/pt/s3/pricing/
 
 
+AWS - Versionamento do S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Versioning.html
+
+AWS - Exemplos de politicas do bucket S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/example-bucket-policies.html
+
+AWS - Conteúdo da prova - Modelo de consistencia de dados do S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html#ConsistencyModel
+
+AWS - Conteúdo da prova - Criptografia no S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/UsingEncryption.html
+
+AWS - Replicação S3
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/replication-what-is-isnot-replicated.html
+
+AWS - Elementos de configuração do ciclo de vida
+https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/intro-lifecycle-rules.html
+
+AWS - Remoção de marcadores de exclusão
+
 
 
 Serviços de armazenamento ilimitado gerenciavel (Gereciamento é feito de forma automatica pela AWS), provê o armazenamento de dados com segurança durabilidade e escalabilidade.
@@ -109,7 +155,32 @@ Buckets são regionais, precisam ter nomes compatíveis com DNS, podem ser confi
 Por padrão um bucket é privado e não é possível alterar, para criar um bucket publico é necessário configurar as permissões no momento da criação.
 
 
+Seção 4: CloudFront
+
+Aula 08: CloudFront
+
+Recursos:
+
+AWS - CloudFront
+https://aws.amazon.com/pt/cloudfront/
+
+
+É um serviço é uma CDN (Content Delivery Network) rápida, na qual é possível distribuir conteúdo WEB globalmente, com baixa latencia, baseado na localização de usuários, páginas e dos servidores de conteúdo.
+
+Terminologia:
+
+Edge locations - é um local onde o conteúdo web é cacheado, estaõ distribuidos globalmente, não utilizados exclusivamente pleo cloudfront.
+
+Origin - é a origem 
+
+Aula 09: Aula Pratica CloudFront | Integração com outros serviços AWS
+
+Tarefa06: Questionário
+
+Aula prática sobre o CloudFront
+
+
+
 Aula 01:
 Aula 01:
-Aula 01:
-Aula 01:
+
