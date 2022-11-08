@@ -238,8 +238,34 @@ https://docs.aws.amazon.com/pt_br/storagegateway/index.html
 
 Arquivo Storage-gateway.pptx
 
+
+Funcionamento do Storage Gateway.
+
+É um serviço que possibilita a sua rede On-premises utilizar a infraestrutura de armazenamento da AWS de forma segura, ágil e escalável.
+É possivel utilizar para backup e arquivamento, disaster recovery, processamento em nuvem e migrações.
+
+
+
 Aula 11: Aula prática - Storage Gateway
 
 Tarefa07: Storage Gateway
 
 Tarefa sobre o Storage Gateway
+
+Seção 6: Snowball
+
+Aula 12: Snowball
+
+Recursos:
+
+Snowball:
+https://aws.amazon.com/pt/snowball/
+
+Arquivo Snowball.pptx
+
+Facilita transferência de grandes quantidades de dados para a AWS.
+Dividido em 3 categorias
+
+Snowball - 
+Snowball Edge
+Snowmobile
