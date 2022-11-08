@@ -17,8 +17,7 @@ http://nuvym.com/devops/
 
 Arquivo introducao.pptx
 
-![alt text](![S1A1_Imagem01](https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG)
-)
+![S1A1_Imagem01](https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG" width="700px" />
