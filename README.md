@@ -6,16 +6,56 @@ Aula 01: Introdução a Computação em Nuvem através da AWS
 
 Recursos:
 
+Benefícios da Computação em nuvem:
 http://nuvym.com/beneficios-cloud/
 
-
+Amadurecimento no uso de Computação em nuvem:
 http://nuvym.com/amadurecimento-cloud/
 
-
+DEVOPS - Tratando sua infraestrutura como códico:
 http://nuvym.com/devops/
 
-
 Arquivo introducao.pptx
+
+
+<p align="center">
+  <img src="Sources\S1A1_Imagem01.jpg" width="350" title="Comparação On-premises x Virtualização x AWS">
+</p>
+
+
+
+Vantagens da AWS sobre um ambiente On-premises
+
+Um ambiente On-premises é aquele onde é preciso adquirir servidores, possuir um datacenter, ativos de redes, storages, swithces, routeradores, fazer a parte energetica, cabeamento de redes, etc.
+
+Desvantagens
+
+As perguntas que devemos fazer são:
+
+1 - Tempo
+
+Qual o tempo para adiquirir (comprar) um servidor;
+Qual o tempo para configuração do servidor;
+Qual o tempo para instalação do sistema operacional;
+Qual o tempo para configuração do sistema operacional;
+Qual o tempo para instalação da aplicação desejada;
+Qual o tempo para configuração da aplicação;
+
+Diante de tudo isso, qual o tempo total até que a aplicaçaõ esteja no ar?
+
+2 - Alto custo
+
+Qual o custo do datacenter?
+Qual o custo do servidor?
+Qual o custo dos ativos de rede?
+Qual o custo dos licenciamentos de softwares necessários a aplicação?
+
+Até que a aplicação esteja no ar, há um alto custo envolvido. 
+
+Após surgiu a virtualização onde o hardware é abstraido e é possivel ter diversos sistemas operacionais sobre uma infraestrutura virtualizada.
+
+A AWS é uma extensão de um ambiente virtualizado, algo como o próximo passo evolutivo.
+
 
 Aula 02: Certificações AWS
 
