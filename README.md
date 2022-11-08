@@ -18,9 +18,8 @@ http://nuvym.com/devops/
 Arquivo introducao.pptx
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG" width="450" title="Comparação On-premises x Virtualização x AWS">
+  <img src="https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG" width="450" title="S1A1_Imagem01">
 </p>
-
 
 Vantagens da AWS sobre um ambiente On-premises
 
@@ -28,7 +27,7 @@ Um ambiente On-premises é aquele onde é preciso adquirir servidores, possuir u
 
 Desvantagens
 
-As perguntas que devemos fazer são:
+As desvantagens são:
 
 1 - Tempo
 
@@ -56,8 +55,18 @@ A AWS é uma extensão de um ambiente virtualizado, algo como o próximo passo e
 
 Vantagens da AWS:
 
+1 - Umas das vantagens da AWS é a robusta e extença infraestrutura cloud já implementada na forma de serviços, incluindo segurança, redundancia, alta disponibilidade.
+
+A AWS faz uso de uma infraestrutura global de datacenters contendo todos os serviços que a AWS oferece. 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24874487/200639368-863f2001-b406-44d5-8e26-a77e6a2cb9ac.JPG" width="450" title="Comparação On-premises x Virtualização x AWS">
+  <img src="https://user-images.githubusercontent.com/24874487/200639368-863f2001-b406-44d5-8e26-a77e6a2cb9ac.JPG" width="450" title="S1A1_Imagem02">
+</p>
+
+A durabilidade de dados na AWS e latencia de rede que acontece através de reduncias entre os datacenters e/ou balanceamento de carga.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24874487/200643291-4cffc30c-05b2-4eed-b1b1-9fe371532a26.JPG" width="450" title="S1A1_Imagem03">
 </p>
 
 
