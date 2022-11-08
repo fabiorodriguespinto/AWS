@@ -17,16 +17,9 @@ http://nuvym.com/devops/
 
 Arquivo introducao.pptx
 
-![S1A1_Imagem01](https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG)
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG" width="700px" />
-</div>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG" width="350" title="Comparação On-premises x Virtualização x AWS">
+  <img src="https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG" width="450" title="Comparação On-premises x Virtualização x AWS">
 </p>
-
 
 
 Vantagens da AWS sobre um ambiente On-premises
@@ -60,6 +53,12 @@ Até que a aplicação esteja no ar, há um alto custo envolvido.
 Após surgiu a virtualização onde o hardware é abstraido e é possivel ter diversos sistemas operacionais sobre uma infraestrutura virtualizada.
 
 A AWS é uma extensão de um ambiente virtualizado, algo como o próximo passo evolutivo.
+
+Vantagens da AWS:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24874487/200639368-863f2001-b406-44d5-8e26-a77e6a2cb9ac.JPG" width="450" title="Comparação On-premises x Virtualização x AWS">
+</p>
 
 
 Aula 02: Certificações AWS
