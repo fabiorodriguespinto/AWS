@@ -17,9 +17,10 @@ http://nuvym.com/devops/
 
 Arquivo introducao.pptx
 
+![alt text](AWS/Sources/S1A1_Imagem01.JPG)
 
 <p align="center">
-  <img src="Sources\S1A1_Imagem01.jpg" width="350" title="Comparação On-premises x Virtualização x AWS">
+  <img src="AWS/Sources/S1A1_Imagem01.JPG" width="350" title="Comparação On-premises x Virtualização x AWS">
 </p>
 
 
