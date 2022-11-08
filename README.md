@@ -57,23 +57,41 @@ Vantagens da AWS:
 
 1 - Umas das vantagens da AWS é a robusta e extença infraestrutura cloud já implementada na forma de serviços, incluindo segurança, redundancia, alta disponibilidade.
 
-A AWS faz uso de uma infraestrutura global de datacenters contendo todos os serviços que a AWS oferece. 
+A AWS usa o conceito de regiões, onde há de uma infraestrutura global de datacenters contendo todos os serviços que a AWS oferece.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24874487/200639368-863f2001-b406-44d5-8e26-a77e6a2cb9ac.JPG" width="450" title="S1A1_Imagem02">
 </p>
 
-A durabilidade de dados na AWS e latencia de rede que acontece através de reduncias entre os datacenters e/ou balanceamento de carga.
+A durabilidade de dados (11 x 9's) na AWS e latência de rede que acontece através de reduncias entre os datacenters e/ou balanceamento de carga entre os datacenters que são zonas de disponibilidade e conectados por links de dados de altissima velocidade que formam uma região.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24874487/200643291-4cffc30c-05b2-4eed-b1b1-9fe371532a26.JPG" width="450" title="S1A1_Imagem03">
 </p>
 
+AWS trabalha com um modelo de responsabilidade compartilhada
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24874487/200652670-58ae3b37-2acb-42b4-897e-591bca762261.JPG" width="450" title="S1A1_Imagem04">
+</p>
+
+Gama de serviços da AWS
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24874487/200652860-b709487a-53ad-47d1-b388-bb35a7cbc160.JPG" width="450" title="S1A1_Imagem05">
+</p>
+
+Diferenças entre os serviços da AWS
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24874487/200652957-43fc95e3-51d8-49b9-bf40-d7a26768d3d4.JPG" width="450" title="S1A1_Imagem06">
+</p>
 
 Aula 02: Certificações AWS
 
 Recursos:
 
+AWS - Certificações:
 https://aws.amazon.com/pt/certification/
 
 
