@@ -340,3 +340,38 @@ Dividido em 3 categorias
 Snowball - 
 Snowball Edge
 Snowmobile
+
+Seção 7: EC2
+
+Aula 13: EC2
+
+Recursos:
+
+Tipos de instância do Amazon EC2:
+https://aws.amazon.com/pt/ec2/instance-types/
+
+Tipos de volume do Amazon EBS:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-volume-types.html
+
+Instâncias reservadas do Amazon EC2:
+https://aws.amazon.com/pt/ec2/pricing/reserved-instances/
+
+Instâncias spot do Amazon EC2:
+https://aws.amazon.com/pt/ec2/spot/
+
+Volume do dispositivo raiz da instância do Amazon EC2:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/RootDeviceStorage.html
+
+Arquivo EC2.pptx
+
+Um dos serviços mais importantes da AWS, não é gerenciavel
+
+
+Aula 14: EC2 - Aula prática
+
+Recursos:
+
+Aula 15: EC2 - Aula prática - Avançado
+
+Recursos:
+
