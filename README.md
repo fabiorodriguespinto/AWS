@@ -401,7 +401,39 @@ Aula 14: EC2 - Aula prática
 
 Recursos:
 
+Grupos de posicionamento:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/placement-groups.html
+
+Amazon EC2 já oferece reservas de capacidade sob demanda:
+https://aws.amazon.com/pt/about-aws/whats-new/2018/10/Amazon-EC2-now-offers-On-Demand-Capacity-Reservations/
+
+Modo ilimitado de instâncias expansíveis:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/burstable-performance-instances-unlimited-mode.html
+
+Executar comandos na instância do Linux no lançamento
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html
+
+Conectar-se à instância do Linux no Windows usando PuTTY
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/putty.html
+
+
+
 Aula 15: EC2 - Aula prática - Avançado
+
 
 Recursos:
 
+Grupos de segurança do Amazon EC2 para instâncias do Linux:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ec2-security-groups.html
+
+Armazenamento de instâncias do Amazon EC2:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/InstanceStorage.html
+
+Amazon Elastic Block Store (EBS):
+https://aws.amazon.com/pt/ebs/
+
+Criar snapshots de Amazon EBS:
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-creating-snapshot.html
+
+Imagens de máquina da Amazon (AMIs):
+https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AMIs.html
