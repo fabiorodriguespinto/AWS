@@ -364,7 +364,37 @@ https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/RootDeviceStorage.html
 
 Arquivo EC2.pptx
 
-Um dos serviços mais importantes da AWS, não é gerenciavel
+Um dos serviços mais importantes da AWS, não é gerenciado
+
+É um web service que provê capacidade computacional de forma vertical (Aumenta recursos da instancia) e horizontal (Aumenta a quantidade de instancias).
+
+Possui 4 tipos de execução:
+
+On-demand - Por demanda, pago por hora ou segundo de uso.
+
+Reservadas - Paga-se adiantada por 1 ou 3 anos, o valor é bem mais atrativo.
+
+Spot - Algo como um leilão, ao chegar no valor o lançe, começa a utilizar e esta pode ser finalizada a qualquer momento.
+
+Host dedicados - Um host é reservado para o uso, pode-se trazer a licença dos sistemas operacionais e de softwares.
+
+As instancias EC2 possuem vários tipos de armazenamentos:
+
+Volumes raiz - Volumes bootaveis
+
+Volumes EBS - Usado para armazenar dados, criar o volume EBS e depois o sistema de arquivos. O ideal é que os volumes EBS fiquem na mesma zona de disponibilidade onde a instancia foi criada.
+
+Tipos de volumes EBS:
+
+General Purpose SSD gp2 - Balanciado ente preço e performance.
+
+Provisioned IOPS SSD io1 - Aplicações que fazem uso itensivo de leitura e escrita.
+
+Cold HDD sc1 - Armazenamento de baixo custo, dados não acessados frequentimente
+
+Throughput optimized hdd st1 - alta vazão de dados, usado para bid data, datawarehouse.
+
+Magnetic (standard) - Custo mínimo de armazenamento.
 
 
 Aula 14: EC2 - Aula prática
