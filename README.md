@@ -437,3 +437,49 @@ https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-creating-snapshot.
 
 Imagens de máquina da Amazon (AMIs):
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AMIs.html
+
+
+
+Aula 16: Balaceamento de carga - Load Balancer
+
+Recursos:
+
+Elastic Load Balancing:
+https://aws.amazon.com/pt/elasticloadbalancing/?nc1=h_ls
+
+Cabeçalhos HTTP e balanceadores de carga clássicos:
+https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/classic/x-forwarded-headers.html
+
+
+São 3 os tipos de balaceamentos de carga na Amazon
+
+Application Load Balancer
+Network Load Balancer
+Classic Load Balancer
+
+
+Aula 17: Balaceamento de carga - Aula Prática
+
+
+Aula 18: Roles - Permitindo uma instânica Ec2 acesso total ao S3 - Aula Prática
+
+Recursos:
+
+Funções do IAM:
+https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_roles.html
+
+
+Aula 19: Aula prática - automatizando tarefas simples na inicialização de uma instância
+
+
+Aula 20: Aula prática - Metadados da instância
+
+
+Aula 21: CloudWatch
+
+
+Aula 22: AutoScaling
+
+Faz o scalonamento de instancias EC2 para cima ou para baixo.
+
+Aula 23: EFS - Elastic File System (NFS)
