@@ -417,9 +417,7 @@ Conectar-se à instância do Linux no Windows usando PuTTY
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/putty.html
 
 
-
 Aula 15: EC2 - Aula prática - Avançado
-
 
 Recursos:
 
@@ -437,7 +435,6 @@ https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/ebs-creating-snapshot.
 
 Imagens de máquina da Amazon (AMIs):
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/AMIs.html
-
 
 
 Aula 16: Balaceamento de carga - Load Balancer
@@ -483,3 +480,178 @@ Aula 22: AutoScaling
 Faz o scalonamento de instancias EC2 para cima ou para baixo.
 
 Aula 23: EFS - Elastic File System (NFS)
+
+Recursos:
+
+Amazon Elastic File System:
+https://aws.amazon.com/pt/efs/
+
+Armazenamento de arquivos na nuvem:
+https://aws.amazon.com/pt/what-is/cloud-file-storage/
+
+FreeBSD - NFS Handbook
+https://docs.freebsd.org/en/books/handbook/network-servers/#network-nfs
+
+
+Éum sistema de arquivos em blocos no qual um HD é exportado das suas maquinas para instancias EC2, é um disco rigido remoto, acesso via protocolo NFS (Network File System) versão 4 ou superior. O espaço em disco é redimensionado conforme a necessidade - escalabilidade automativa, latencia baixa dependendo da configuração, reduncia qdo configuração em várias zonas de disponibilidade, alta disponibilidade e resiliencia.
+
+Aula 24: Lambda
+
+Recursos:
+
+AWS Lambda:
+https://aws.amazon.com/pt/lambda/
+
+Perguntas frequentes sobre o AWS Lambda:
+https://aws.amazon.com/pt/lambda/faqs/
+
+Criação de aplicações com arquiteturas sem servidor:
+https://aws.amazon.com/pt/lambda/serverless-architectures-learn-more/
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24874487/200652957-43fc95e3-51d8-49b9-bf40-d7a26768d3d4.JPG" width="450" title="S7A24_Imagem01">
+</p>
+
+
+O Lambda faz parte da arquitetura Serverless.
+
+
+
+Teste 1: Questionário sobre EC2, focado na prova de certificação. 23 Perguntas.
+
+
+Seção 8: Route 53
+
+
+Aula 25:  Route 53
+
+O route 53 é o serviço de DNS da AWS.
+
+
+Aula 26:  Route 53 - Weighted Routing Policy
+
+
+Aula 27:  Route 53 - Latency
+
+Deve-se configurar o servidor DNS para a zona onde o servidor possuir a menor latência.
+
+
+Aula 28:  Route 53 - Failover
+
+Politica de failover, que é a checagem de falha
+
+
+Aula 29:  Route 53 - Geolocation
+
+
+Aula 30:  Route 53 - Multivalue Answer
+
+qualquer requisição sempre serão respondidos pelos dois sites.
+
+Teste 2: Route 53
+
+
+Seção 9: Bancos de Dados
+
+
+Aula 31: AWS - Bancos de Dados
+
+Recursos:
+
+Relational Database Service (RDS)
+https://aws.amazon.com/pt/rds/
+
+O que é NoSQL?:
+https://aws.amazon.com/pt/nosql/
+
+Amazon DynamoDB:
+https://aws.amazon.com/pt/dynamodb/
+
+Conceitos de Data Warehouse:
+https://aws.amazon.com/pt/data-warehouse/
+
+Amazon Redshift:
+https://aws.amazon.com/pt/redshift/
+
+Amazon ElastiCache:
+https://aws.amazon.com/pt/elasticache/
+
+Arquivo S9A31_RDS.pptx.
+
+
+Serviço gerenciado (A AWS gerencia a infraestrutura) de banco de dados relacionais.
+
+Aula 32: RDS - Aula prática - Aurora
+
+Recursos:
+
+Criar uma instância de banco de dados MySQL e conectar-se a um banco de dados em uma instância de banco de dados MySQL:
+https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html
+
+Implantações Multi-AZ do Amazon RDS:
+https://aws.amazon.com/pt/rds/features/multi-az/
+
+Réplicas de leitura do Amazon RDS:
+https://aws.amazon.com/pt/rds/features/read-replicas/
+
+Modificar uma instância de banco de dados do Amazon RDS
+
+Aula 33: DynamoDB
+
+Aula 34: Redshift
+
+Aula 35: Elasticache
+
+Solução de cache baseada em web service, pode melhor consideravelmente o acesso a serviços comumente acessados.
+O cache é armazenado em mémoria que é muito mais rápido que acessar a informação em disco ou BD.
+
+ElastiCache é
+
+Teste 3: Bancos de Dados
+
+
+Seção 10: Serviços de Aplicação
+
+
+Aula 36: SQS (Simple Queue Service)
+
+Recursos:
+
+Amazon Simple Queue Service (SQS):
+https://aws.amazon.com/pt/sqs/
+
+Consumo de mensagens usando a sondagem longa:
+https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html#sqs-long-polling
+
+Perguntas frequentes sobre o Amazon SQS:
+https://aws.amazon.com/pt/sqs/faqs/
+
+Arquivo S10A36_SQS.pptx
+
+
+Serviço de mensagem da AWS
+
+Como funciona?
+
+Aula 37: SWF (Simple Workflow Service)
+
+
+Recursos:
+
+Amazon Simple Workflow Service (SWF):
+https://aws.amazon.com/pt/swf/
+
+Desenvolver um operador de atividade no Amazon SWF:
+https://docs.aws.amazon.com/pt_br/amazonswf/latest/developerguide/swf-dg-develop-activity.html
+
+Recursos da Web para o Amazon Simple Workflow Service:
+https://docs.aws.amazon.com/pt_br/amazonswf/latest/developerguide/resources-web.html
+
+
+Gerenciador de fluxos de trabalho orientado a tarefas.
+
+Mais de 500 mili segundos
+
+Assegura que a tarefa apenas uma vez. Alem de cordenar a lógica de execução, ou seja, após uma tarefa for executa, a próxima tarefa é chamada para ser executada.
+
