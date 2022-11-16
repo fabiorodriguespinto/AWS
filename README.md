@@ -655,3 +655,117 @@ Mais de 500 mili segundos
 
 Assegura que a tarefa apenas uma vez. Alem de cordenar a lógica de execução, ou seja, após uma tarefa for executa, a próxima tarefa é chamada para ser executada.
 
+
+Aula 38: SNS (Simple Notification Service)
+
+
+Recursos:
+
+Amazon Simple Notification Service (SNS):
+https://aws.amazon.com/pt/sns/
+
+Definição de preço do Amazon SNS:
+https://aws.amazon.com/pt/sns/pricing/
+
+Serviço de publicação de mensagens
+
+Mensagens são armazenadas em zonas de disponibilidade diferentes, isso assegura que as mensagens não serão perdidas.
+
+
+Aula 39: Elastic Transcoder
+
+Conversor de arquivos de mídia
+
+Recursos:
+
+Amazon Elastic Transcoder:
+https://aws.amazon.com/pt/elastictranscoder/
+
+
+Aula 40: API Gateway
+
+Gateway para as suas APIs
+
+Usado para integrar as aplicações com outros serviços AWS.
+
+Recursos:
+
+Amazon API Gateway:
+https://aws.amazon.com/pt/api-gateway/
+
+Recursos do Amazon API Gateway:
+https://aws.amazon.com/pt/api-gateway/features/
+
+
+Aula 41: Kinesis
+
+Serviço da AWS para trabalhar com streaming de dados.
+
+Recursos:
+
+O que são dados em streaming?:
+https://aws.amazon.com/pt/streaming-data/
+
+Amazon Kinesis Data Streams:
+https://aws.amazon.com/pt/kinesis/data-streams/
+
+Amazon Kinesis Data Firehose:
+https://aws.amazon.com/pt/kinesis/data-firehose/
+
+Amazon Kinesis Data Analytics:
+https://aws.amazon.com/pt/kinesis/data-analytics/
+
+
+Aula 42: Laboratório - Kinesis
+
+Recursos:
+
+DevOps:
+http://nuvym.com/devops/
+
+Ansible:
+https://aws.amazon.com/marketplace/pp/prodview-nysmxgv7brv5g
+
+AWS CloudFormation:
+https://aws.amazon.com/pt/cloudformation/
+
+
+Teste 4: Questionário
+
+
+Seção 11: VPC - Virtual Private Cloud
+
+Aula 43: VPC
+
+Recursos:
+
+Como funciona a Amazon VPC:
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/how-it-works.html#vpc-subnet-basics
+
+Rede Privada:
+https://pt.wikipedia.org/wiki/Rede_privada
+
+CIDR - Classless Inter-Domain Routing
+https://pt.wikipedia.org/wiki/Roteamento_entre_dom%C3%ADnios_sem_classes
+
+Gateway endpoints:
+https://docs.aws.amazon.com/pt_br/vpc/latest/privatelink/gateway-endpoints.html
+
+Gateways da Internet somente de saída:
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/egress-only-internet-gateway.html
+
+AWS NAT:
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-nat.html
+
+Emparelhamento da VPC:
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-peering.html
+
+Conjuntos de opções DHCP no Amazon VPC:
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_DHCP_Options.html
+
+Como usar o DNS com sua VPC:
+https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-dns.html
+
+
+
+
