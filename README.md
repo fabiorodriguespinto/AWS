@@ -1,21 +1,9 @@
-Treinamento completo em AWS
+<h1 align="center">Treinamento completo em AWS</h1>
+
 
 Seção 1: Introdução
 
 Aula 01: Introdução a Computação em Nuvem através da AWS
-
-Recursos:
-
-Benefícios da Computação em nuvem:
-http://nuvym.com/beneficios-cloud/
-
-Amadurecimento no uso de Computação em nuvem:
-http://nuvym.com/amadurecimento-cloud/
-
-DEVOPS - Tratando sua infraestrutura como códico:
-http://nuvym.com/devops/
-
-Arquivo introducao.pptx
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24874487/200634700-71acbaeb-db71-42c2-9cdb-a00f60c31da3.JPG" width="450" title="S1A1_Imagem01">
@@ -23,9 +11,10 @@ Arquivo introducao.pptx
 
 Vantagens da AWS sobre um ambiente On-premises
 
-Um ambiente On-premises é aquele onde é preciso adquirir servidores, possuir um datacenter, ativos de redes, storages, swithces, routeradores, fazer a parte energetica, cabeamento de redes, etc.
 
-Desvantagens
+Um ambiente On-premises é aquele onde é preciso adquirir servidores, possuir um datacenter, ativos de redes, storages, swithces, routeradores, fazer a parte energetica, cabeamento de redes, geralemnte hospedando dentro da empresa em um datacenter local. 
+
+Desvantagens do ambiente On-premise
 
 As desvantagens são:
 
@@ -87,6 +76,20 @@ Diferenças entre os serviços da AWS
   <img src="https://user-images.githubusercontent.com/24874487/200652957-43fc95e3-51d8-49b9-bf40-d7a26768d3d4.JPG" width="450" title="S1A1_Imagem06">
 </p>
 
+Recursos:
+
+Benefícios da Computação em nuvem:
+http://nuvym.com/beneficios-cloud/
+
+Amadurecimento no uso de Computação em nuvem:
+http://nuvym.com/amadurecimento-cloud/
+
+DEVOPS - Tratando sua infraestrutura como códico:
+http://nuvym.com/devops/
+
+Arquivo S01_A01_Introducao.pptx
+
+
 Aula 02: Certificações AWS
 
 Recursos:
@@ -101,6 +104,18 @@ Cloud Practitioner
 Associate
 Professional
 Specialty
+
+Minha resposta:
+
+Quais as diferenças entre os níveis Cloud Practitioner, Associate, Professional e Specialty?
+
+Certificações de nível Cloud Practitioner são para pessoas que estão começando na AWS, vão fazer pesquisas, propor soluções, etc.
+
+Certificações de nível Associate são para pessoas com maior conhecimento de serviços e que vão implementar  serviços AWS;
+
+Certificações de nível Professional são para pessoas com conhecimento mais profundo sobre os serviços AWS;
+
+Certificações de nível Specialty são para pessoas que possuem expertise comprovada em determina área  AWS.
 
 
 Aula 03: Analise de Custos, cálculo de TCO e classificação de instancias - 19min
